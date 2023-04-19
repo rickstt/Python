@@ -1,0 +1,1 @@
+print("Este arquivo foi executado por uma aplicação em java")
